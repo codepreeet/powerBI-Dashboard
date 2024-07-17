@@ -21,9 +21,9 @@ and number of tickets opened in the categories administrative and technical
 3. Diversity and Inclusion Reporting
 • Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 • Calculating the following measures could help to define proper KPIs:
-# of men
-# of women
-# of leavers
+(#)of men
+(#) of women
+(#)of leavers
 % employees promoted (FY21)
 % of women promoted
 % of hires men
